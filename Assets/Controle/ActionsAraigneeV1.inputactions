@@ -1,5 +1,5 @@
 {
-    "name": "ActionsPersonnageV1",
+    "name": "ActionsAraigneeV1",
     "maps": [
         {
             "name": "Personnage",
@@ -17,7 +17,7 @@
             ],
             "bindings": [
                 {
-                    "name": "2D Vector",
+                    "name": "2D WASD",
                     "id": "d9ccf899-5cfd-42f0-96c2-6ae0c7f25d32",
                     "path": "2DVector",
                     "interactions": "",
@@ -33,7 +33,7 @@
                     "path": "<Keyboard>/w",
                     "interactions": "",
                     "processors": "",
-                    "groups": "",
+                    "groups": "Clavier",
                     "action": "Promener",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -44,7 +44,7 @@
                     "path": "<Keyboard>/s",
                     "interactions": "",
                     "processors": "",
-                    "groups": "",
+                    "groups": "Clavier",
                     "action": "Promener",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -55,7 +55,7 @@
                     "path": "<Keyboard>/a",
                     "interactions": "",
                     "processors": "",
-                    "groups": "",
+                    "groups": "Clavier",
                     "action": "Promener",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -66,7 +66,62 @@
                     "path": "<Keyboard>/d",
                     "interactions": "",
                     "processors": "",
+                    "groups": "Clavier",
+                    "action": "Promener",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "2D Fleches",
+                    "id": "cdb0a32b-d45e-4c71-8e60-c39565691b1c",
+                    "path": "2DVector",
+                    "interactions": "",
+                    "processors": "",
                     "groups": "",
+                    "action": "Promener",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "up",
+                    "id": "0a12f3a3-d2e2-43d5-81e5-a84297befe92",
+                    "path": "<Keyboard>/upArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Clavier",
+                    "action": "Promener",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "down",
+                    "id": "195ca579-9acc-4fd6-b3b7-eb000ad5d9af",
+                    "path": "<Keyboard>/downArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Clavier",
+                    "action": "Promener",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "left",
+                    "id": "62cb587c-43a1-4651-8a4e-821599cbaf99",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Clavier",
+                    "action": "Promener",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "right",
+                    "id": "d1b8e198-250f-4c5a-a720-58f73dd464dc",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Clavier",
                     "action": "Promener",
                     "isComposite": false,
                     "isPartOfComposite": true

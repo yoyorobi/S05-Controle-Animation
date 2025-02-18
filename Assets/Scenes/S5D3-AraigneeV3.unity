@@ -3547,7 +3547,7 @@ MonoBehaviour:
       m_Calls: []
   m_ActionEvents: []
   m_NeverAutoSwitchControlSchemes: 0
-  m_DefaultControlScheme: 
+  m_DefaultControlScheme: Clavier
   m_DefaultActionMap: Personnage
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
@@ -3563,8 +3563,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a3928189f0e6884c9a03025cead1704, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _vitessePromenade: 0.5
-  _modifierAnimTranslation: 1.3
+  _vitessePromenade: 0.6
+  _modifierAnimTranslation: 1.25
 --- !u!95 &7701125328972159570
 Animator:
   serializedVersion: 5
