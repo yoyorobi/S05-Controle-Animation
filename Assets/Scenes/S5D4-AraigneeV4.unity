@@ -469,7 +469,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 38fd6ee23180a9e4289e8627c8a4a7c4, type: 2}
+  - {fileID: 2100000, guid: 9fd3e0b2fa3e16144bdd47a630430d60, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2603,7 +2603,7 @@ GameObject:
   - component: {fileID: 7701125328972159568}
   - component: {fileID: 7701125328972159569}
   m_Layer: 0
-  m_Name: AraigneeV3
+  m_Name: AraigneeV4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3575,7 +3575,7 @@ Animator:
   m_GameObject: {fileID: 5344350794625233183}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: a36cc2e58a04ee445949ef64405b59e9, type: 2}
+  m_Controller: {fileID: 9100000, guid: d21746e1709860d438dd24e9844166bc, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
